@@ -1,0 +1,10 @@
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi8\buoi8\bin\Debug\buoi8.exe.config
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi8\buoi8\bin\Debug\buoi8.exe
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi8\buoi8\bin\Debug\buoi8.pdb
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi8\buoi8\obj\Debug\buoi8.csproj.AssemblyReference.cache
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi8\buoi8\obj\Debug\buoi8.Form1.resources
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi8\buoi8\obj\Debug\buoi8.Properties.Resources.resources
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi8\buoi8\obj\Debug\buoi8.csproj.GenerateResource.cache
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi8\buoi8\obj\Debug\buoi8.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi8\buoi8\obj\Debug\buoi8.exe
+D:\Công Nghệ Thông Tin\LT Trên MT Windows\buoi8\buoi8\obj\Debug\buoi8.pdb
